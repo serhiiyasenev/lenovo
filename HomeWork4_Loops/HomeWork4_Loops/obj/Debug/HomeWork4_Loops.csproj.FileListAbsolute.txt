@@ -1,0 +1,7 @@
+C:\Users\Serhii\source\repos\HomeWork4_Loops\HomeWork4_Loops\bin\Debug\HomeWork4_Loops.exe.config
+C:\Users\Serhii\source\repos\HomeWork4_Loops\HomeWork4_Loops\bin\Debug\HomeWork4_Loops.exe
+C:\Users\Serhii\source\repos\HomeWork4_Loops\HomeWork4_Loops\bin\Debug\HomeWork4_Loops.pdb
+C:\Users\Serhii\source\repos\HomeWork4_Loops\HomeWork4_Loops\obj\Debug\HomeWork4_Loops.csprojResolveAssemblyReference.cache
+C:\Users\Serhii\source\repos\HomeWork4_Loops\HomeWork4_Loops\obj\Debug\HomeWork4_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\source\repos\HomeWork4_Loops\HomeWork4_Loops\obj\Debug\HomeWork4_Loops.exe
+C:\Users\Serhii\source\repos\HomeWork4_Loops\HomeWork4_Loops\obj\Debug\HomeWork4_Loops.pdb

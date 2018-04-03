@@ -1,0 +1,7 @@
+c:\users\serhii\source\repos\DuckHunter\DuckHunter\bin\Debug\DuckHunter.exe.config
+c:\users\serhii\source\repos\DuckHunter\DuckHunter\bin\Debug\DuckHunter.exe
+c:\users\serhii\source\repos\DuckHunter\DuckHunter\bin\Debug\DuckHunter.pdb
+c:\users\serhii\source\repos\DuckHunter\DuckHunter\obj\Debug\DuckHunter.csprojResolveAssemblyReference.cache
+c:\users\serhii\source\repos\DuckHunter\DuckHunter\obj\Debug\DuckHunter.csproj.CoreCompileInputs.cache
+c:\users\serhii\source\repos\DuckHunter\DuckHunter\obj\Debug\DuckHunter.exe
+c:\users\serhii\source\repos\DuckHunter\DuckHunter\obj\Debug\DuckHunter.pdb

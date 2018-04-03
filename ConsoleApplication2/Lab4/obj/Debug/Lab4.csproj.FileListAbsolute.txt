@@ -1,0 +1,7 @@
+C:\Users\Serhii\source\repos\ConsoleApplication2\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Serhii\source\repos\ConsoleApplication2\Lab4\bin\Debug\Lab4.exe
+C:\Users\Serhii\source\repos\ConsoleApplication2\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Serhii\source\repos\ConsoleApplication2\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\source\repos\ConsoleApplication2\Lab4\obj\Debug\Lab4.exe
+C:\Users\Serhii\source\repos\ConsoleApplication2\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Serhii\source\repos\ConsoleApplication2\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Serhii\source\repos\ConsoleApplication2\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\source\repos\ConsoleApplication2\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Serhii\source\repos\ConsoleApplication2\Iterator\bin\Debug\Iterator.exe
+C:\Users\Serhii\source\repos\ConsoleApplication2\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Serhii\source\repos\ConsoleApplication2\Iterator\obj\Debug\Iterator.exe
+C:\Users\Serhii\source\repos\ConsoleApplication2\Iterator\obj\Debug\Iterator.pdb
+C:\Users\Serhii\source\repos\ConsoleApplication2\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache

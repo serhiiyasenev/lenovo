@@ -1,0 +1,7 @@
+c:\users\serhii\source\repos\DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+c:\users\serhii\source\repos\DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+c:\users\serhii\source\repos\DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+c:\users\serhii\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csprojResolveAssemblyReference.cache
+c:\users\serhii\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csproj.CoreCompileInputs.cache
+c:\users\serhii\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+c:\users\serhii\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb

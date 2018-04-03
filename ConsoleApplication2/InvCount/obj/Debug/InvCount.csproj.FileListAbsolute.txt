@@ -1,0 +1,6 @@
+C:\Users\Serhii\source\repos\ConsoleApplication2\InvCount\bin\Debug\InvCount.exe.config
+C:\Users\Serhii\source\repos\ConsoleApplication2\InvCount\bin\Debug\InvCount.exe
+C:\Users\Serhii\source\repos\ConsoleApplication2\InvCount\bin\Debug\InvCount.pdb
+C:\Users\Serhii\source\repos\ConsoleApplication2\InvCount\obj\Debug\InvCount.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\source\repos\ConsoleApplication2\InvCount\obj\Debug\InvCount.exe
+C:\Users\Serhii\source\repos\ConsoleApplication2\InvCount\obj\Debug\InvCount.pdb
