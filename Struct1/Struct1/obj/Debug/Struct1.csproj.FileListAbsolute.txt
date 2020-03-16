@@ -4,4 +4,4 @@ c:\users\serhii\source\repos\Struct1\Struct1\bin\Debug\Struct1.pdb
 c:\users\serhii\source\repos\Struct1\Struct1\obj\Debug\Struct1.csproj.CoreCompileInputs.cache
 c:\users\serhii\source\repos\Struct1\Struct1\obj\Debug\Struct1.exe
 c:\users\serhii\source\repos\Struct1\Struct1\obj\Debug\Struct1.pdb
-C:\Users\Serhii\source\repos\Struct1\Struct1\obj\Debug\Struct1.csprojResolveAssemblyReference.cache
+C:\Users\Serhii\source\repos\Struct1\Struct1\obj\Debug\Struct1.csprojAssemblyReference.cache
